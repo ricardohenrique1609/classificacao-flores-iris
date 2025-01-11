@@ -1,11 +1,5 @@
 Classificação de Flores Iris com Machine Learning e Gráfico 3D Interativo
 
-
-
-Título: Classificação de Flores Iris com Machine Learning e Gráfico 3D Interativo
-
-Descrição:
-
 Este projeto demonstra minhas habilidades em Machine Learning e visualização de dados, aplicando o algoritmo K-Nearest Neighbors (KNN) para classificar flores Iris. O modelo prevê a espécie da flor (Setosa, Versicolor ou Virginica) com base em quatro características: comprimento e largura da sépala e da pétala.
 
 A aplicação, construída com Streamlit, oferece uma interface web intuitiva para inserir as características da flor e obter a previsão da espécie. Além disso, o projeto inclui um gráfico 3D interativo (construído com Plotly) que permite visualizar a distribuição das espécies de Iris no espaço tridimensional, explorando as relações entre as características.
