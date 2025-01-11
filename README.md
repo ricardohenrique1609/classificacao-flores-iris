@@ -1,6 +1,6 @@
 Classificação de Flores Iris com Machine Learning e Gráfico 3D Interativo
 
-Ótimo, vamos deixar a descrição mais detalhada e incluir as instruções para treinar o modelo! 😉
+
 
 Título: Classificação de Flores Iris com Machine Learning e Gráfico 3D Interativo
 
