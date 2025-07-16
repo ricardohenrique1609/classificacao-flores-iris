@@ -44,8 +44,7 @@ A machine learning web application developed to enhance my skills in **Python**,
 <h3>📷 Badge</h3>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/ricardohenrique1609/classificacao-flores-iris/main/imagens/badge_iris.png" alt="Iris Classifier Badge" width="300"/>
-
+  <img src="https://raw.githubusercontent.com/ricardohenrique1609/classificacao-flores-iris/main/badge_iris.png" alt="Iris Classifier Badge" width="300"/>
 </p>
 
 ---
